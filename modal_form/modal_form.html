@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="../src/css/main.css">
+    <link rel="stylesheet" type="text/css" href="modal_form.css">
+</head>
+<body>
+<div class="example_box">
+    <h2>Модальная форма заявки v1</h2>
+    <a class="example_btn" href="#callback">Форма заявки</a>
+    <a class="example_btn" href="#endthx">Благодарственое сообщение</a>
+    <a class="example_btn" href="modal_form_code.html">Код</a>
+</div>
+<div id="callback" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close"></a>
+            <h2 class="call-modal-h2">Отправить заявку</h2>
+            <form id="make_order" method="post" name="modal-box" action="modal_form_send.php">
+                <input type="hidden" id="request" name="main_request" value="Основная заявка">
+                <span class="inp-req">
+                    <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                </span>
+                <span class="inp-req">
+                    <input id="rqmail" name="mail" type="email" required="" placeholder="Адресс эл. почты" autocomplete="off" class="suggestions-input">
+                </span>
+                <span class="inp-req">
+                    <input id="rqtel" name="tel" type="tel" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                </span>
+                <span class="inp-req">
+                    <input type="submit" class="btn" value="Оставить заявку">
+                </span>
+            </form>
+            <p>
+                Нажимая на кнопку "Оставить заявку", я даю согласие на обработку моих персональных данных, согласно <a href="#">политике конфиденциальности</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<div id="endthx" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close"></a>
+            <div id="result">
+                <h2 class="call-modal-h2">Ваша заявка принята, спасибо за обращение</h2>
+                <a href="#close">
+                    <span class="inp-req">
+                        <input type="submit" class="btn" value="Закрыть">
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

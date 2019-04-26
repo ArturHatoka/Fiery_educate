@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAoB;EAClB,UAAU,EAAE,UAAU;;AAExB,IAAI;EACF,SAAS,EAAE,IAAI;;AAIjB,IAAI;EACF,WAAW,EAAE,gBAAgB;EAC7B,SAAS,EAAE,IAAI",
+"sources": ["../../../../../%D0%A1%D0%B0%D0%B9%D1%82%D1%8B/Fiery_educate/site_vanila/src/scss/style.scss"],
+"names": [],
+"file": "style.css"
+}

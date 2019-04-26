@@ -1,15 +1,4 @@
-html{
-    font-size: 15px;
-    font-family: Arial sans-serif;
-    box-sizing: border-box;
-}
-body{
-    position: relative;
-    width: 100%;
-}
-input{
-    outline: none;
-}
+
 .modalDialog {
     position: fixed;
     top: 0;
