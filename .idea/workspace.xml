@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d4935e-4973-497d-a610-b06d4eeb13a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modal_form/modal_form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modal_form/modal_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modal_form/modal_form_code.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss_phpstorm/setting_scss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site_vanila/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site_vanila/src/css/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site_vanila/src/css/media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site_vanila/src/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,20 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scss_phpstorm/setting_scss.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -88,8 +68,8 @@
         <option value="$PROJECT_DIR$/site_vanila/src/scss/style.scss" />
         <option value="$PROJECT_DIR$/src/css/main.css" />
         <option value="$PROJECT_DIR$/src/scss/main.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss_phpstorm/setting_scss.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -113,11 +93,6 @@
             <path>
               <item name="Fiery_educate" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fiery_educate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fiery_educate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiery_educate" type="462c0819:PsiDirectoryNode" />
-              <item name="modal_form" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Fiery_educate" type="b2602c69:ProjectViewProjectNode" />
@@ -185,12 +160,12 @@
       <updated>1555664435011</updated>
       <workItem from="1555664436214" duration="4340000" />
       <workItem from="1555914148899" duration="617000" />
-      <workItem from="1556281683624" duration="9318000" />
+      <workItem from="1556281683624" duration="9957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14275000" />
+    <option name="totallyTimeSpent" value="14914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -332,6 +307,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modal_form/modal_form_code.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss_phpstorm/setting_scss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="841">
@@ -342,21 +331,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modal_form/modal_form_code.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss_phpstorm/setting_scss.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
         </state>
       </provider>
     </entry>
