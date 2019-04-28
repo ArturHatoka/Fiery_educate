@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15d4935e-4973-497d-a610-b06d4eeb13a1" name="Default Changelist" comment="" />
+    <list default="true" id="15d4935e-4973-497d-a610-b06d4eeb13a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/site_vanila/site_vanila.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal_form/modal_form_code.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal_form/modal_form_code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss_phpstorm/setting_scss.html" beforeDir="false" afterPath="$PROJECT_DIR$/scss_phpstorm/setting_scss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_vanila/src/css/media.css.map" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,38 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+            <state relative-caret-position="272">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss_phpstorm/setting_scss.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/main.scss">
+        <entry file="file://$PROJECT_DIR$/modal_form/modal_form_code.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="119">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -66,7 +64,6 @@
         <option value="$PROJECT_DIR$/modal_form.html" />
         <option value="$PROJECT_DIR$/modal_form/modal_form.css" />
         <option value="$PROJECT_DIR$/modal_form/modal_form.html" />
-        <option value="$PROJECT_DIR$/modal_form/modal_form_code.html" />
         <option value="$PROJECT_DIR$/site_vanila/index.html" />
         <option value="$PROJECT_DIR$/site_vanila/src/css/media.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
@@ -75,8 +72,9 @@
         <option value="$PROJECT_DIR$/site_vanila/src/scss/style.scss" />
         <option value="$PROJECT_DIR$/src/css/main.css" />
         <option value="$PROJECT_DIR$/src/scss/main.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss_phpstorm/setting_scss.html" />
+        <option value="$PROJECT_DIR$/modal_form/modal_form_code.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -104,25 +102,23 @@
             <path>
               <item name="Fiery_educate" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fiery_educate" type="462c0819:PsiDirectoryNode" />
+              <item name="modal_form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiery_educate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiery_educate" type="462c0819:PsiDirectoryNode" />
               <item name="scss_phpstorm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Fiery_educate" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fiery_educate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="site_vanila" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Fiery_educate" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fiery_educate" type="462c0819:PsiDirectoryNode" />
+              <item name="site_vanila" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fiery_educate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiery_educate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="main.scss" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -174,12 +170,12 @@
       <workItem from="1555914148899" duration="617000" />
       <workItem from="1556281683624" duration="9957000" />
       <workItem from="1556348038820" duration="1222000" />
-      <workItem from="1556442599603" duration="1666000" />
+      <workItem from="1556442599603" duration="2796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17802000" />
+    <option name="totallyTimeSpent" value="18932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -189,7 +185,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3726977" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -198,7 +194,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -258,9 +254,6 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/site_vanila/src/css/media.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ARNADA_foundation/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -296,23 +289,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal_form/modal_form_code.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/site_vanila/src/css/media.scss">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
+        <state relative-caret-position="428">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
@@ -324,10 +306,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site_vanila/src/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_form/modal_form_code.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scss_phpstorm/setting_scss.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
