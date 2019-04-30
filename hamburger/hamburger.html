@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="../src/css/main.css">
+    <link rel="stylesheet" type="text/css" href="hamburger.css">
+</head>
+<body>
+<section>
+    <div class="example">
+        <h1 class="example-title">Меню в виде бургеров анимированные<a href="../index.html">На главную</a></h1>
+        <div class="example-box">
+            <h2 class="example-box__title">Из бургера в крестик</h2>
+            <nav class="header-nav">
+                <a class="header-nav__btn">
+                    <span class="header-nav__btn-line"></span>
+                </a>
+            </nav>
+            <a class="example-box__btn" href="../src/js/jquery-3.4.0.min.js">jquery-3.4.0.min.js</a>
+            <a class="example-box__btn" href="hamburger_code.html">Код</a>
+        </div>
+        <div class="example-box">
+            <h2 class="example-box__title">Из бургера в стрелку</h2>
+            <nav class="header-nav">
+                <a class="header-nav__btn-arrow">
+                    <span class="header-nav__btn-arrow-line"></span>
+                </a>
+            </nav>
+            <a class="example-box__btn" href="../src/js/jquery-3.4.0.min.js">jquery-3.4.0.min.js</a>
+            <a class="example-box__btn" href="hamburger_arrow.html">Код</a>
+        </div>
+    </div>
+</section>
+<script src="../src/js/jquery-3.4.0.min.js"></script>
+<script>
+    $('.header-nav__btn').on('click', function (e) {
+        e.preventDefault;
+        $(this).toggleClass('active');
+    });
+</script>
+<script>
+    $('.header-nav__btn-arrow').on('click', function (e) {
+        e.preventDefault;
+        $(this).toggleClass('active');
+    });
+</script>
+</body>
+</html>
